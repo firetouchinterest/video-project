@@ -49,7 +49,6 @@ h1
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background: var(--primary-color) url('https://nv.instructuremedia.com/fetch/QkFoYkIxc0hhUVNGVGNjSE1Hd3JCNStETW1VPS0tOTVkZmRkNjdmNzg0ZGZjMWViODI4ZjFiNmExYmY4MjUzNTQ1NzNiMA.mp4') no-repeat center center/cover;
 }
 
 .video-container video
@@ -71,7 +70,7 @@ h1
     width: 100%;
     top: 0;
     left: 0;
-    background: rgba(red, green, blue, 0.5);
+    background: rgba(rgb(13, 2, 2), green, blue, 0.5);
     position: absolute;
 }
 
